@@ -18,7 +18,9 @@ const Shop = () => {
     }
 
     return (
-        <div className='shop-container'>
+        <div>
+             <h1 className='shopping-title'>Online Watch Shopping Connection</h1>
+             <div className='shop-container'>
             <div className='products-container'>
                 {
                     products.map(product => <Product 
@@ -28,10 +30,12 @@ const Shop = () => {
                 }
             </div>
             <div className='order-container'>
-                <h1 className='Order-title'>Order Summary</h1>
+                <h1 className='Order-title'>Selected Watch</h1>
                 <p className='selected-item'>Selected Items: {cart.length}</p>
             </div>
         </div>
+        </div>
+      
     );
 };
 

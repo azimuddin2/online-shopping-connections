@@ -1,96 +1,85 @@
 [
   {
-    "id": "4ead4708-68e8-4a93-b28e-5e99ccc4d75c",
-    "category": "Earphones",
-    "name": "adidas FWD-02 Sport True Wireless Earbuds",
-    "price": 180,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/523731a02e914d318cb4adcc00f985ba_9366/adidas_FWD-02_Sport_True_Wireless_Earbuds_Grey_EY5113_03_standard_hover.jpg"
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Piaget Altiplano watch",
+    "price": 800,
+    "img": "https://assets.vogue.com/photos/610c37ea1427092c96399f7d/master/w_1280,c_limit/slide_10.jpg"
   },
-
+  
   {
-    "id": "d1116075-10f2-49c4-985e-0d41e19ce1b3",
-    "category": "Earphones",
-    "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
-    "price": 160,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e6e7967b3b24ef298f5adcc00f983ec_9366/adidas_Z.N.E._01_ANC_True_Wireless_Earbuds_Grey_EY5115_41_detail.jpg"
+    "id": "4ead4708-68e8-4a93-b28e-5e99ccc4d75c",
+    "name": "Rolex Explorer watch",
+    "price": 1000,
+    "img": "https://assets.vogue.com/photos/610c375c57a8f3b3e50c845c/master/w_1280,c_limit/slide_11.jpg"
   },
 
   {
     "id": "d1116075-10f2-49c4-985e-fg41e19dc1b8",
-    "category": "Earphones",
-    "name": "RPT-01 Sport On-Ear Headphones",
-    "price": 200,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c697ceddb0c2469aaa2eaa7101121d10_9366/RPT-01_Sport_On-Ear_Headphones_Black_CM5015_01_standard.jpg"
+    "name": "Grand Seiko watch",
+    "price": 700,
+    "img": "https://assets.vogue.com/photos/610c37baad8fc9e84b8eaee8/master/w_1280,c_limit/slide_8.jpg"
   },
   
   {
     "id": "be7a4d0a-c681-416c-ab8d-f9be28223f4e",
-    "category": "Earphones",
-    "name": "adidas Z.N.E. 01 True Wireless Earbuds",
-    "price": 150,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/00276c6c380b41bcb29fadcc00f98312_9366/adidas_Z.N.E._01_True_Wireless_Earbuds_Grey_EY5116_42_detail.jpg"
+    "name": "Nomos Club Sport 42 date black watch",
+    "price": 500,
+    "img": "https://assets.vogue.com/photos/610c372fdea0ee7a79ab3ebe/master/w_1280,c_limit/slide_7.jpg"
   },
+
   {
     "id": "b278e667-ca17-465c-b603-af1af4319b7b",
-    "category": "Earphones",
-    "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
-    "price": 120,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b322cdef8e654551ace9adcc00f963ed_9366/adidas_Z.N.E._01_ANC_True_Wireless_Earbuds_Grey_EY5114_41_detail.jpg"
+    "name": "Tissot 26mm Bellissima watch",
+    "price": 650,
+    "img": "https://assets.vogue.com/photos/60fb2d978bf069fa4aa7ec60/master/w_1280,c_limit/tissot.jpg"
   },
+
   {
     "id": "1f56c0e5-4407-44bf-9225-90f592d2924a",
-    "category": "Earphones",
-    "name": "FWD-01 Sport In-Ear Headphones",
-    "price": 140,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2cdb8652aa2340369ba2aa79010062d1_9366/FWD-01_Sport_In-Ear_Headphones_Black_CM5016_01_standard.jpg"
+    "name": "Tissot Lovely 19.5mm watch",
+    "price": 990,
+    "img": "https://assets.vogue.com/photos/610c37487b605859b4b99b7f/master/w_1280,c_limit/slide_14.jpg"
+  },
+  
+  {
+    "id": "d1116075-10f2-49c4-985e-0d41e19ce1b3",
+    "name": "Grand Seiko Heritage SBGX263 watch",
+    "price": 750,
+    "img": "https://assets.vogue.com/photos/610c36f90f269150843b9846/master/w_1280,c_limit/slide_4.jpg"
   },
   
   {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-    "category": "Men's Sneaker",
-    "name": "LITE RACER ADAPT 3.0 SHOES",
-    "price": 400,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg"
-  },
-  
- 
-  {
-    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
-    "category": "Men's Sneaker",
-    "name": "ZX 1K BOOST SHOES",
-    "price": 350,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg"
+    "name": "Audemars Piguet Code 11.59 watch",
+    "price": 850,
+    "img": "https://assets.vogue.com/photos/610c3779dea0ee7a79ab3ec0/master/w_1280,c_limit/slide_1.jpg"
   },
   
   {
     "id": "ac44095f-230e-4502-8816-dea3eaae8320",
-    "category": "Men's Sneaker",
-    "name": "NMD_R1 PRIMEBLUE SHOES",
-    "price": 500,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Primeblue_Shoes_White_GZ9261_01_standard.jpg"
+    "name": "Patek 5738P Golden Ellipse watch",
+    "price": 599,
+    "img": "https://assets.vogue.com/photos/610c3798ead931b59b471e34/master/w_1280,c_limit/slide_9.jpg"
   },
   
   {
     "id": "e1a7c529-f91b-4ef5-a661-c2317c5c314e",
-    "category": "Bottle",
-    "name": "Steel Metal Bottle 1L",
-    "price": 20,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/29ef510920b54492a721aa1c01782cb2_9366/Steel_Metal_Bottle_1L_White_CL6092_01_standard.jpg"
+    "name": "Longines Elegant 25mm ladies watch",
+    "price": 300,
+    "img": "https://assets.vogue.com/photos/610c37171427092c96399f7b/master/w_1280,c_limit/slide_6.jpg"
   },
   
   {
     "id": "5b5c43d9-950d-4b9a-b7d9-ca489224a7b2",
-    "category": "Bottle",
-    "name": "Steel Metal Bottle 600 ML",
-    "price": 30,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e2d870a680644e4d98e9ac7d0008ecc7_9366/Steel_Metal_Bottle_600_ML_Yellow_EX7307_01_standard.jpg"
+    "name": "Van Cleef & Arpels white gold Cadenas watch",
+    "price": 690,
+    "img": "https://assets.vogue.com/photos/610d46d65d530b55152bf738/master/w_1280,c_limit/slide_2%20(1).jpg"
   },
   
   {
     "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
-    "category": "Bottle",
-    "name": "Steel Bottle 600 ML",
-    "price": 25,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/48057b65216644f683a9aa1c0172ae6e_9366/Steel_Bottle_600_ML_Black_CL6093_01_standard.jpg"
+    "name": "Longines Dolcevita 28.2mm ladies watch",
+    "price": 400,
+    "img": "https://assets.vogue.com/photos/60fb2d383294b98fdce6021c/master/w_1280,c_limit/longines.jpg"
   }
 ]
