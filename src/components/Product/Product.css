@@ -68,3 +68,10 @@
 .cart-text {
     margin-right: 8px;
 }
+
+@media screen and (max-width: 576px) {
+    .shop-container {
+        width: 100%;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
