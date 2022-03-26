@@ -50,6 +50,27 @@
     font-weight: 400;
 }
 
+.question {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.question-one {
+   border: 4px solid #ffa07a;
+   margin-right: 20px;
+   border-radius: 10px;
+}
+
+.question-two {
+    border: 4px solid lightsalmon;
+    border-radius: 10px;
+ }
+ 
+
 /* media query response */
 @media screen and (max-width: 576px) {
     .shop-container {
