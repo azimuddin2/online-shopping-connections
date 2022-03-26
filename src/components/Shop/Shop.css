@@ -39,7 +39,6 @@
     text-transform: capitalize;
     font-weight: 600;
     color: lightsalmon;
-    line-height: 20px;
 }
 
 .choose-watch {
@@ -53,15 +52,13 @@
 .question {
     display: flex;
     margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
     font-size: 20px;
     text-align: center;
 }
 
 .question-one {
    border: 4px solid #ffa07a;
-   margin-right: 20px;
+   margin-right: 10px;
    border-radius: 10px;
 }
 
