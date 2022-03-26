@@ -38,8 +38,17 @@
     font-size: 50px;
     text-transform: capitalize;
     font-weight: 600;
+    color: lightsalmon;
+    line-height: 20px;
 }
 
+.choose-watch {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 50px;
+    margin-bottom: 80px;
+    font-weight: 400;
+}
 
 /* media query response */
 @media screen and (max-width: 576px) {

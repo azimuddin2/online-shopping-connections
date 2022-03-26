@@ -18,9 +18,22 @@ const Shop = () => {
         setCart(newCart);
     }
 
+    const chooseToCartWatch = () => {
+        for (const product of cart) {  
+            if (parseInt(product.id) === Math.floor(Math.random() * 12)) {
+                alert(product.name);
+            }
+        }
+    }
+
+    const handleChooseAgain = () => {
+        setCart([])
+    }
+
     return (
         <div>
              <h1 className='shopping-title'>Online Watch Shopping Connection</h1>
+             <h2 className='choose-watch'>Choose 4 Watch</h2>
              <div className='shop-container'>
             <div className='products-container'>
                 {
@@ -30,8 +43,12 @@ const Shop = () => {
                         handleAddToCart={handleAddToCart}></Product>)
                 }
             </div>
+
             <div className='order-container'>
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart}
+                handleChooseAgain={handleChooseAgain}
+                chooseToCartWatch={chooseToCartWatch}></Cart>
+                
             </div>
         </div>
         </div>

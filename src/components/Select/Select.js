@@ -10,7 +10,7 @@ const Select = (props) => {
             <div className='select-product'>
             <img src={img} alt="" />
             <h1 className='select-name'>Name: {name}</h1>
-            <FontAwesomeIcon icon={() => faDeleteLeft}></FontAwesomeIcon>
+            <FontAwesomeIcon icon={faDeleteLeft}></FontAwesomeIcon>
         </div>
         </div>
     );

@@ -1,32 +1,21 @@
-import React from 'react';
 import Select from '../Select/Select';
 import './Cart.css'
 
 const Cart = (props) => {
-    const {cart} = props;
-
-    const chooseToCartWatch = () => {
-        // const chooseValue = Math.floor(Math.random() * 9);
-        for (const product of cart) {
-
-
-            console.log(product.id);
-            if (parseInt(product.id) === Math.floor(Math.random() * 12)) {
-                alert(product.name);
-            }
-        }
-    }
-
+    const {cart, handleChooseAgain, chooseToCartWatch} = props;
+    
     return (
         <div className='cart'>
             <h1 className='selected-title'>Selected Watch</h1>
             {
-                cart.map(cart => <Select  cart={cart}></Select>)
+                cart.map(cart => <Select cart={cart}
+                key={cart.id}></Select>)
             }
-            <button onClick={chooseToCartWatch} className='choose-one'>
-            Choose One For Me
-            </button>
-            <button className='choose-again'>Choose Again</button>
+
+            <button onClick={ () => chooseToCartWatch()} className='choose-one'>
+            Choose One For Me</button>
+            
+            <button onClick={ () => handleChooseAgain()}  className='choose-again'>Choose Again</button>
         </div>
     );
 };
