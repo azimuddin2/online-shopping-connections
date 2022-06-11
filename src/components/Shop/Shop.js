@@ -33,7 +33,7 @@ const Shop = () => {
     return (
         <div>
              <h1 className='shopping-title'>Online Watch Shopping Connection</h1>
-             <h2 className='choose-watch'>Choose 4 Watch</h2>
+             <h2 className='choose-watch'>Choose 6 Watch</h2>
              <div className='shop-container'>
             <div className='products-container'>
                 {
